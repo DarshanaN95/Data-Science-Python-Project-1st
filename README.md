@@ -22,3 +22,5 @@ Analysis Tasks to be performed:
 3. Provide major insights/patterns that you can offer in a visual format (graphs or tables); at least 4 major conclusions that you can come up with after generic data mining.
 4. Order the complaint types based on the average ‘Request_Closing_Time’, grouping them for different locations.
 5. Perform a statistical test for the following:
+  a)Whether the average response time across complaint types is similar or not (overall)
+  b)Are the type of complaint or service requested and location related?
